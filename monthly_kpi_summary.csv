@@ -1,0 +1,101 @@
+month,intern_id,intern_name,department,mentor_id,tasks_completed,on_time_rate,avg_delay_days,avg_quality_score,avg_mentor_feedback,composite_score,flag
+2026-06,INT-001,Intern 1,Graphic Design,M-03,4,100.0,0.0,7.4,4.6,87.2,Strong Performer
+2026-06,INT-019,Intern 19,Data Analytics,M-01,3,100.0,0.0,7.7,4.4,87.2,Strong Performer
+2026-06,INT-009,Intern 9,Marketing,M-07,2,100.0,0.0,7.4,4.4,86.0,Strong Performer
+2026-06,INT-011,Intern 11,Graphic Design,M-06,4,100.0,0.0,7.5,4.2,85.2,Strong Performer
+2026-06,INT-014,Intern 14,Web Development,M-03,4,100.0,0.0,7.6,4.1,85.0,Strong Performer
+2026-06,INT-016,Intern 16,Web Development,M-07,4,100.0,0.0,6.5,4.6,83.6,Strong Performer
+2026-06,INT-022,Intern 22,Content Writing,M-03,3,100.0,0.0,8.3,3.2,82.4,Strong Performer
+2026-06,INT-006,Intern 6,Web Development,M-04,3,100.0,0.0,7.1,3.9,81.8,Strong Performer
+2026-06,INT-024,Intern 24,Data Analytics,M-05,3,100.0,0.0,6.4,4.3,81.4,Strong Performer
+2026-06,INT-008,Intern 8,Marketing,M-08,2,100.0,0.0,7.7,3.4,81.2,Strong Performer
+2026-06,INT-015,Intern 15,Graphic Design,M-04,2,100.0,0.0,6.1,4.4,80.8,Strong Performer
+2026-06,INT-004,Intern 4,Content Writing,M-02,3,100.0,0.0,6.6,3.8,79.2,Strong Performer
+2026-06,INT-002,Intern 2,Content Writing,M-03,2,100.0,0.0,6.9,3.4,78.0,Strong Performer
+2026-06,INT-020,Intern 20,Graphic Design,M-03,3,66.7,0.7,7.7,4.5,77.8,Strong Performer
+2026-06,INT-023,Intern 23,Graphic Design,M-07,2,100.0,0.0,5.4,4.2,76.8,Strong Performer
+2026-06,INT-018,Intern 18,Content Writing,M-08,2,100.0,0.0,6.0,3.2,73.2,Strong Performer
+2026-06,INT-012,Intern 12,Marketing,M-07,3,66.7,0.3,6.8,4.2,72.4,Strong Performer
+2026-06,INT-013,Intern 13,Content Writing,M-06,3,66.7,0.7,6.9,4.0,71.6,Strong Performer
+2026-06,INT-017,Intern 17,Graphic Design,M-04,3,66.7,0.7,7.3,3.6,70.8,Strong Performer
+2026-06,INT-007,Intern 7,Marketing,M-04,2,50.0,1.0,7.1,4.3,69.2,On Track
+2026-06,INT-003,Intern 3,Marketing,M-07,3,66.7,0.3,6.8,3.5,68.2,On Track
+2026-06,INT-010,Intern 10,Content Writing,M-06,2,100.0,0.0,4.3,3.5,68.2,On Track
+2026-06,INT-021,Intern 21,Web Development,M-05,2,50.0,1.5,6.8,4.1,66.8,On Track
+2026-06,INT-025,Intern 25,Data Analytics,M-01,2,50.0,0.5,7.5,3.2,64.2,On Track
+2026-06,INT-005,Intern 5,Content Writing,M-08,2,0.0,2.0,6.8,4.0,51.2,On Track
+2026-07,INT-001,Intern 1,Graphic Design,M-03,3,100.0,0.0,7.7,4.7,89.0,Strong Performer
+2026-07,INT-003,Intern 3,Marketing,M-07,4,100.0,0.0,7.6,4.3,86.2,Strong Performer
+2026-07,INT-022,Intern 22,Content Writing,M-03,2,100.0,0.0,8.3,3.8,86.0,Strong Performer
+2026-07,INT-019,Intern 19,Data Analytics,M-01,4,100.0,0.0,8.0,3.9,85.4,Strong Performer
+2026-07,INT-009,Intern 9,Marketing,M-07,3,100.0,0.0,6.7,4.5,83.8,Strong Performer
+2026-07,INT-011,Intern 11,Graphic Design,M-06,4,100.0,0.0,6.8,4.4,83.6,Strong Performer
+2026-07,INT-020,Intern 20,Graphic Design,M-03,2,100.0,0.0,7.5,3.9,83.4,Strong Performer
+2026-07,INT-014,Intern 14,Web Development,M-03,3,100.0,0.0,6.8,4.2,82.4,Strong Performer
+2026-07,INT-015,Intern 15,Graphic Design,M-04,4,100.0,0.0,6.8,4.0,81.2,Strong Performer
+2026-07,INT-006,Intern 6,Web Development,M-04,4,75.0,0.2,7.6,4.7,81.1,Strong Performer
+2026-07,INT-023,Intern 23,Graphic Design,M-07,3,100.0,0.0,7.0,3.8,80.8,Strong Performer
+2026-07,INT-002,Intern 2,Content Writing,M-03,4,100.0,0.0,6.2,4.0,78.8,Strong Performer
+2026-07,INT-010,Intern 10,Content Writing,M-06,2,100.0,0.0,6.5,3.6,77.6,Strong Performer
+2026-07,INT-004,Intern 4,Content Writing,M-02,3,100.0,0.0,6.4,3.5,76.6,Strong Performer
+2026-07,INT-007,Intern 7,Marketing,M-04,2,50.0,1.0,7.6,5.0,75.4,Strong Performer
+2026-07,INT-017,Intern 17,Graphic Design,M-04,4,75.0,0.2,7.3,3.9,75.1,Strong Performer
+2026-07,INT-016,Intern 16,Web Development,M-07,2,100.0,0.0,6.0,3.5,75.0,Strong Performer
+2026-07,INT-025,Intern 25,Data Analytics,M-01,4,75.0,0.5,7.1,4.0,74.9,Strong Performer
+2026-07,INT-008,Intern 8,Marketing,M-08,4,75.0,1.2,7.4,3.7,74.3,Strong Performer
+2026-07,INT-021,Intern 21,Web Development,M-05,2,100.0,0.0,5.8,3.4,73.6,Strong Performer
+2026-07,INT-013,Intern 13,Content Writing,M-06,4,75.0,0.2,6.7,4.0,73.3,Strong Performer
+2026-07,INT-005,Intern 5,Content Writing,M-08,4,75.0,0.2,6.4,4.0,72.1,Strong Performer
+2026-07,INT-012,Intern 12,Marketing,M-07,2,100.0,0.0,4.5,3.8,70.8,Strong Performer
+2026-07,INT-024,Intern 24,Data Analytics,M-05,3,66.7,0.3,6.9,3.8,70.4,Strong Performer
+2026-07,INT-018,Intern 18,Content Writing,M-08,2,50.0,0.5,6.6,4.4,67.8,On Track
+2026-08,INT-003,Intern 3,Marketing,M-07,4,100.0,0.0,8.5,4.2,89.2,Strong Performer
+2026-08,INT-013,Intern 13,Content Writing,M-06,4,100.0,0.0,8.0,4.4,88.4,Strong Performer
+2026-08,INT-008,Intern 8,Marketing,M-08,3,100.0,0.0,7.9,4.1,86.2,Strong Performer
+2026-08,INT-019,Intern 19,Data Analytics,M-01,3,100.0,0.0,7.0,4.5,85.0,Strong Performer
+2026-08,INT-014,Intern 14,Web Development,M-03,4,100.0,0.0,7.4,4.2,84.8,Strong Performer
+2026-08,INT-015,Intern 15,Graphic Design,M-04,3,100.0,0.0,6.1,4.8,83.2,Strong Performer
+2026-08,INT-020,Intern 20,Graphic Design,M-03,4,100.0,0.0,7.5,3.8,82.8,Strong Performer
+2026-08,INT-010,Intern 10,Content Writing,M-06,4,75.0,0.8,9.0,4.0,82.5,Strong Performer
+2026-08,INT-024,Intern 24,Data Analytics,M-05,4,100.0,0.0,6.4,4.4,82.0,Strong Performer
+2026-08,INT-016,Intern 16,Web Development,M-07,4,100.0,0.0,7.4,3.6,81.2,Strong Performer
+2026-08,INT-023,Intern 23,Graphic Design,M-07,2,100.0,0.0,7.4,3.6,81.2,Strong Performer
+2026-08,INT-022,Intern 22,Content Writing,M-03,4,100.0,0.0,6.9,3.8,80.4,Strong Performer
+2026-08,INT-001,Intern 1,Graphic Design,M-03,2,100.0,0.0,6.6,3.9,79.8,Strong Performer
+2026-08,INT-006,Intern 6,Web Development,M-04,4,100.0,0.0,7.0,3.6,79.6,Strong Performer
+2026-08,INT-012,Intern 12,Marketing,M-07,3,100.0,0.0,5.3,4.5,78.2,Strong Performer
+2026-08,INT-018,Intern 18,Content Writing,M-08,3,100.0,0.0,6.8,3.5,78.2,Strong Performer
+2026-08,INT-009,Intern 9,Marketing,M-07,2,100.0,0.0,6.6,3.6,78.0,Strong Performer
+2026-08,INT-005,Intern 5,Content Writing,M-08,3,100.0,0.0,6.7,3.5,77.8,Strong Performer
+2026-08,INT-021,Intern 21,Web Development,M-05,3,100.0,0.0,6.1,3.9,77.8,Strong Performer
+2026-08,INT-002,Intern 2,Content Writing,M-03,4,75.0,0.5,6.6,3.5,69.9,On Track
+2026-08,INT-011,Intern 11,Graphic Design,M-06,4,75.0,0.5,6.4,3.4,68.5,On Track
+2026-08,INT-025,Intern 25,Data Analytics,M-01,3,66.7,1.0,5.4,3.7,63.8,On Track
+2026-08,INT-017,Intern 17,Graphic Design,M-04,3,66.7,0.3,5.2,3.8,63.6,On Track
+2026-08,INT-007,Intern 7,Marketing,M-04,2,50.0,0.5,5.2,3.9,59.2,On Track
+2026-08,INT-004,Intern 4,Content Writing,M-02,3,33.3,1.3,5.4,4.4,58.0,On Track
+2026-09,INT-014,Intern 14,Web Development,M-03,2,100.0,0.0,8.6,4.2,89.6,Strong Performer
+2026-09,INT-023,Intern 23,Graphic Design,M-07,2,100.0,0.0,8.4,4.2,88.8,Strong Performer
+2026-09,INT-011,Intern 11,Graphic Design,M-06,3,100.0,0.0,7.9,4.4,88.0,Strong Performer
+2026-09,INT-009,Intern 9,Marketing,M-07,4,100.0,0.0,8.3,4.0,87.2,Strong Performer
+2026-09,INT-013,Intern 13,Content Writing,M-06,4,100.0,0.0,7.6,4.4,86.8,Strong Performer
+2026-09,INT-016,Intern 16,Web Development,M-07,3,100.0,0.0,7.6,4.4,86.8,Strong Performer
+2026-09,INT-019,Intern 19,Data Analytics,M-01,3,100.0,0.0,8.3,3.9,86.6,Strong Performer
+2026-09,INT-024,Intern 24,Data Analytics,M-05,4,100.0,0.0,6.8,4.5,84.2,Strong Performer
+2026-09,INT-008,Intern 8,Marketing,M-08,4,100.0,0.0,7.0,4.2,83.2,Strong Performer
+2026-09,INT-015,Intern 15,Graphic Design,M-04,3,100.0,0.0,6.9,4.2,82.8,Strong Performer
+2026-09,INT-018,Intern 18,Content Writing,M-08,4,100.0,0.0,7.4,3.8,82.4,Strong Performer
+2026-09,INT-001,Intern 1,Graphic Design,M-03,2,100.0,0.0,6.4,4.4,82.0,Strong Performer
+2026-09,INT-005,Intern 5,Content Writing,M-08,4,100.0,0.0,6.9,4.0,81.6,Strong Performer
+2026-09,INT-002,Intern 2,Content Writing,M-03,4,100.0,0.0,7.0,3.8,80.8,Strong Performer
+2026-09,INT-003,Intern 3,Marketing,M-07,4,100.0,0.0,7.2,3.6,80.4,Strong Performer
+2026-09,INT-017,Intern 17,Graphic Design,M-04,2,100.0,0.0,6.2,4.1,79.4,Strong Performer
+2026-09,INT-020,Intern 20,Graphic Design,M-03,3,66.7,0.3,8.1,4.4,78.8,Strong Performer
+2026-09,INT-021,Intern 21,Web Development,M-05,3,100.0,0.0,6.5,3.7,78.2,Strong Performer
+2026-09,INT-025,Intern 25,Data Analytics,M-01,4,100.0,0.0,7.1,3.3,78.2,Strong Performer
+2026-09,INT-010,Intern 10,Content Writing,M-06,4,75.0,0.8,7.2,4.0,75.3,Strong Performer
+2026-09,INT-006,Intern 6,Web Development,M-04,2,100.0,0.0,4.4,4.2,72.8,Strong Performer
+2026-09,INT-004,Intern 4,Content Writing,M-02,3,66.7,0.3,7.6,3.7,72.6,Strong Performer
+2026-09,INT-007,Intern 7,Marketing,M-04,3,66.7,0.7,6.7,4.0,70.8,Strong Performer
+2026-09,INT-022,Intern 22,Content Writing,M-03,3,66.7,0.3,5.5,4.0,66.0,On Track
+2026-09,INT-012,Intern 12,Marketing,M-07,2,0.0,1.5,4.4,2.8,34.4,Needs Support
